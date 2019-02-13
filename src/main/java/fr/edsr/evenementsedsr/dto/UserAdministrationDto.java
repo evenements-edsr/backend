@@ -8,7 +8,7 @@ import javax.validation.constraints.NotBlank;
 
 @Getter
 @Setter
-public class UserDto {
+public class UserAdministrationDto {
 
     @NotBlank
     private String name;
